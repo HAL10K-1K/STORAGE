@@ -34,7 +34,7 @@ settings.theme = `
     background: #29447594;
 }
 .sk_theme ul>li:nth-child(odd) {
-    background: #1e211d;
+    background: #000;
 }
 .sk_theme ul>li.focused {
     background: #4ec10d;
