@@ -30,6 +30,9 @@ settings.theme = `
 .sk_theme .omnibar_highlight {
     color: #fbd60a;
 }
+.sk_theme ul>li {
+    background: #29447594;
+}
 .sk_theme ul>li:nth-child(odd) {
     background: #1e211d;
 }
