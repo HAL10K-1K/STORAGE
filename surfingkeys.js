@@ -33,6 +33,9 @@ settings.theme = `
 .sk_theme ul>li {
     background: #29447594;
 }
+.sk_theme #sk_omnibarSearchResult>ul>li:nth-child(odd) {
+    background: #000;
+}
 .sk_theme ul>li:nth-child(odd) {
     background: #000;
 }
